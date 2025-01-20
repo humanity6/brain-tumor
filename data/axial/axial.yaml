@@ -1,0 +1,8 @@
+path: ../data/axial
+train: images/training
+val: images/validation
+test: images/test
+
+# Custom classes definition
+nc: 2
+names: ["not tumor", "tumor"]
